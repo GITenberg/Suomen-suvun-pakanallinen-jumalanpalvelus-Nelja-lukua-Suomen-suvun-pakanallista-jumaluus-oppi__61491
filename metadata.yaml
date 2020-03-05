@@ -1,5 +1,8 @@
 _repo: Suomen-suvun-pakanallinen-jumalanpalvelus-Nelja-lukua-Suomen-suvun-pakanallista-jumaluus-oppi__61491
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krohn, Julius
@@ -16,6 +19,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Julius_Krohn
     - https://en.wikipedia.org/wiki/Julius_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61491#Suomen-suvun-pakanallinen-jumalanpalvelus-Nelja-lukua-Suomen-suvun-pakanallista-jumaluus-oppi_
 gutenberg_issued: '2020-02-23'
 gutenberg_type: Text
 identifiers:
