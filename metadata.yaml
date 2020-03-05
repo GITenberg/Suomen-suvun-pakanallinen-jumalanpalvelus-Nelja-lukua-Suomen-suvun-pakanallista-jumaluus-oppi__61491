@@ -1,0 +1,36 @@
+_repo: Suomen-suvun-pakanallinen-jumalanpalvelus-Nelja-lukua-Suomen-suvun-pakanallista-jumaluus-oppi__61491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, Gyula
+    - Krohn, J. (Julius)
+    - Krohn, Julius Leopold Fredrik
+    - Suonio
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Julius_Krohn
+    - https://en.wikipedia.org/wiki/Julius_Krohn
+description: ''
+gutenberg_issued: '2020-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61491'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Finno-Ugrian'
+- !lcsh 'Finno-Ugrians -- Folklore'
+- !lcsh 'Finno-Ugrians -- Religion'
+- !lcc 'BL'
+- GITenberg
+title: 'Suomen suvun pakanallinen jumalanpalvelus
+
+  Neljä lukua Suomen suvun pakanallista jumaluus-oppia'
+url: http://www.gutenberg.org/ebooks/61491
